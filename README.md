@@ -65,8 +65,7 @@ pip install -r requirements.txt
 
 ## 📄 Documentation
 
-A detailed explanation of the Risk Parity model, mathematical derivations, and optimization procedure is available in the  
-📘 [Risk Parity Documentation](https://drive.google.com/file/d/1U7nw1OHHZfnf79bMrZwiAS3MsQu_GAbr/view?usp=drive_link)
+A detailed explanation of the Risk Parity model, mathematical derivations, and optimization procedure is available in the [Risk Parity Documentation](https://drive.google.com/file/d/1U7nw1OHHZfnf79bMrZwiAS3MsQu_GAbr/view?usp=drive_link)
 
 
 ## 🪪 License
