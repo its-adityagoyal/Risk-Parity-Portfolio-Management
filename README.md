@@ -48,16 +48,16 @@ git clone https://github.com/its-adityagoyal/Risk-Parity-Portfolio-Management.gi
 cd Risk-Parity-Portfolio-Management
 ```
 
-2. **Install Dependencies:**
 
-Create a virtual environment (optional but recommended):
+2. **Create Virtual Environment** (optional but recommended):
 
 ```bash
 python -m venv env
 source env/bin/activate   # For Unix or Mac
 env\Scripts\activate      # For Windows
 ```
-Then install required libraries:
+
+3. **Install Dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
