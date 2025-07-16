@@ -2,15 +2,17 @@
 
 This repository implements a **Risk Parity** portfolio optimization strategy, a modern alternative to traditional capital allocation methods such as Equal Weighting and Market Capitalization Weighting. The goal is to construct a portfolio where each asset contributes equally to the overall risk.
 
+
 ## What is Risk Parity?
 
 Risk Parity is an asset allocation strategy that focuses on **equalizing risk contribution** from all portfolio components rather than equally allocating capital. By doing so, it enhances portfolio diversification, improves resilience to market shocks, and reduces concentration risk.
+
 
 ## Repository Structure
 ├── README.md          # This file  
 ├── notebook.ipynb     # Main implementation and visualization notebook  
 ├── references.txt     # Research and reference materials  
-├── requirements.txt   # List of dependencies  
+└── requirements.txt   # List of dependencies  
 
 
 ## 📚 Key Concepts
@@ -81,7 +83,7 @@ This project is licensed under the MIT License. See LICENSE [License](./LICENSE)
 
 ## 📚 References
 
-- Sébastien Maillard† Thierry Roncalli‡ Jérôme Teiletche§ - [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1613022)  
+- Sébastien Maillard†, Thierry Roncalli‡ & Jérôme Teiletche§ - [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1613022)  
 - For more reference, see [`references.txt`](./references.txt)
 
 
