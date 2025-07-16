@@ -43,4 +43,38 @@ Install the required dependencies using:
 pip install -r requirements.txt
 ```
 
+## ⚙️ Installation
+
+1. **Clone the Repository:**
+
+```bash
+git clone https://github.com/its-adityagoyal/Risk-Parity-Portfolio-Management.git
+cd Risk-Parity-Portfolio-Management
+```
+
+2. **Install Dependencies:**
+
+Create a virtual environment (optional but recommended):
+
+```bash
+python -m venv env
+source env/bin/activate   # For Unix or Mac
+env\Scripts\activate      # For Windows
+```
+Then install required libraries:
+```bash
+pip install -r requirements.txt
+```
+
+📄 Documentation
+A detailed explanation of the Risk Parity model, mathematical derivations, and optimization procedure is available in the 📘 Risk Parity Documentation (PDF).
+
+
+🪪 License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code with proper attribution.
+
+References
+Thierry Roncalli – Understanding Risk Parity (PDF)
+
+Project documentation – See references.txt or the linked PDF above
 
