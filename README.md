@@ -3,11 +3,10 @@
 This repository implements a **Risk Parity** portfolio optimization strategy, a modern alternative to traditional capital allocation methods such as Equal Weighting and Market Capitalization Weighting. The goal is to construct a portfolio where each asset contributes equally to the overall risk.
 
 
-
-
 ## What is Risk Parity?
 
 Risk Parity is an asset allocation strategy that focuses on **equalizing risk contribution** from all portfolio components rather than equally allocating capital. By doing so, it enhances portfolio diversification, improves resilience to market shocks, and reduces concentration risk.
+
 
 ## Repository Structure
 ```
@@ -31,6 +30,7 @@ Risk Parity is an asset allocation strategy that focuses on **equalizing risk co
 - **Optimization Using SQP (Sequential Quadratic Programming)**  
   The optimization problem is solved numerically using `scipy.optimize.minimize()` with the SLSQP method.
 
+
 ## 🔍 Notebook Highlights
 
 - Fetching data using **`yfinance`**
@@ -38,6 +38,7 @@ Risk Parity is an asset allocation strategy that focuses on **equalizing risk co
 - Implementing **portfolio volatility** and **MRC**
 - Solving the optimization problem using **SLSQP**
 - Evaluating **portfolio performance using optimized weights**
+
 
 ## ⚙️ Installation
 
@@ -61,6 +62,7 @@ Then install required libraries:
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## 📄 Documentation
 
