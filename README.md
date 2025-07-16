@@ -7,13 +7,13 @@ This repository implements a **Risk Parity** portfolio optimization strategy, a 
 
 Risk Parity is an asset allocation strategy that focuses on **equalizing risk contribution** from all portfolio components rather than equally allocating capital. By doing so, it enhances portfolio diversification, improves resilience to market shocks, and reduces concentration risk.
 
-
+```
 ## Repository Structure
 ├── README.md          # This file  
 ├── notebook.ipynb     # Main implementation and visualization notebook  
 ├── references.txt     # Research and reference materials  
 └── requirements.txt   # List of dependencies  
-
+```
 
 ## 📚 Key Concepts
 
