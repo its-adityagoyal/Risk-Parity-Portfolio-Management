@@ -2,7 +2,7 @@
 
 This repository implements a **Risk Parity** portfolio optimization strategy, a modern alternative to traditional capital allocation methods such as Equal Weighting and Market Capitalization Weighting. The goal is to construct a portfolio where each asset contributes equally to the overall risk.
 
-  
+<br>
 ## What is Risk Parity?
 
 Risk Parity is an asset allocation strategy that focuses on **equalizing risk contribution** from all portfolio components rather than equally allocating capital. By doing so, it enhances portfolio diversification, improves resilience to market shocks, and reduces concentration risk.
