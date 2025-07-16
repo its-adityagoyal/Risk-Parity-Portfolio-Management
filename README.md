@@ -39,14 +39,6 @@ Risk Parity is an asset allocation strategy that focuses on **equalizing risk co
 - Solving the optimization problem using **SLSQP**
 - Evaluating **portfolio performance using optimized weights**
 
-## Requirements
-
-Install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## ⚙️ Installation
 
 1. **Clone the Repository:**
