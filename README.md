@@ -69,20 +69,19 @@ pip install -r requirements.txt
 ## 📄 Documentation
 
 A detailed explanation of the Risk Parity model, mathematical derivations, and optimization procedure is available in the  
-📘 [Risk Parity Documentation (PDF)](https://drive.google.com/file/d/1U7nw1OHHZfnf79bMrZwiAS3MsQu_GAbr/view?usp=drive_link)
+📘 [Risk Parity Documentation](https://drive.google.com/file/d/1U7nw1OHHZfnf79bMrZwiAS3MsQu_GAbr/view?usp=drive_link)
 
 ---
 
 ## 🪪 License
 
-This project is licensed under the [MIT License](./LICENSE).  
-You are free to use, modify, and distribute the code with proper attribution.
+This project is licensed under the MIT License. See LICENSE [License](./LICENSE) for details.  
 
 ---
 
 ## 📚 References
 
-- Thierry Roncalli – *Understanding Risk Parity* [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1613022)  
-- Project documentation and citations – See [`references.txt`](./references.txt)
+- Sébastien Maillard† Thierry Roncalli‡ Jérôme Teiletche§ - [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1613022)  
+- For more reference, see [`references.txt`](./references.txt)
 
 
